@@ -4,11 +4,14 @@
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-end;
+    height: 700px;
+    background-color: black;
+    align-content: center;
 }
 
 .caja1{
     width: 500px;
-    height: 150px;
+    height: 80px;
     font-size: 85px;
     color: white;
     background-color: blue;
@@ -17,7 +20,7 @@
 
 .caja2{
     width: 500px;
-    height: 350px;
+    height: 80px;
     font-size: 85px;
     color: white;
     background-color: red;
@@ -25,7 +28,7 @@
 
 .caja3{
     width: 500px;
-    height: 50px;
+    height: 80px;
     font-size: 85px;
     color: white;
     background-color: green;
@@ -33,7 +36,7 @@
 
 .caja4{
     width: 500px;
-    height: 200px;
+    height: 80px;
     font-size: 85px;
     color: white;
     background-color: yellow;
@@ -41,7 +44,7 @@
 
 .caja5{
     width: 500px;
-    height: 400px;
+    height: 80px;
     font-size: 85px;
     color: white;
     background-color: violet;
